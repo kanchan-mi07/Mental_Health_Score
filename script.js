@@ -201,7 +201,7 @@
   }
 
   function bandFor(score) {
-    if (score < 4) {
+    if (score < 5) {
       return {
         label: "Signal: strained",
         context:
